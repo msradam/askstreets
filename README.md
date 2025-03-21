@@ -1,6 +1,8 @@
 # 🛣️ AskStreets: Query and Visualizing Street Networks using OpenStreetMap, ArangoDB, and LangGraph
 Author: Adam Munawar Rahman, March 2025
 
+🏆 AskStreets is the Second Place Winner of ArangoDB and Nvidia's "Building the Next-Gen Agentic App with GraphRAG & NVIDIA cuGraph" Hackathon! See the project submission at https://devpost.com/software/askstreets-querying-and-visualizing-street-networks
+
 Using powerful open-source libraries like OSMnx, we can retrieve geographic features and street network datasets from OpenStreetMap and persist them as graphs and collections in ArangoDB. Then, via a  LangGraph ReAct agent, we feed natural language queries to LLM-based tools to execute complex lookups, run GPU-backed graph algorithms, and visualize geospatial coordinates. This agentic app enables meaningful insights into the network properties of the desired geographic location, and empowers us to address real-world infrastructure challenges.
 
 ## Requirements
