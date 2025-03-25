@@ -58,6 +58,9 @@ I particularly enjoyed seeing the outcome of these tools, which are able to accu
 ## What we learned
 I learned how to prepare OSMnx data to load into ArangoDB, how to invoke LLMs and prompt engineer to improve answers to queries, and how to work with the LangChain and LangGraph libraries.
 
+## Citations
+Boeing, G. (2024). Modeling and Analyzing Urban Networks and Amenities with OSMnx. Working paper. https://geoffboeing.com/publications/osmnx-paper/
+
 ## What's next for AskStreets: Querying and Visualizing Street Networks
 Working with geospatial data has so much potential! In the submission notebook, I demonstrate at the end how health facility data can be overlaid with the street network graph and OpenStreetMap features data so that it can also be queried by AQL. By overlaying and combining even more data sets, we can enhance the app's ability to answer many different types of queries. 
 
